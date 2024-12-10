@@ -1,4 +1,6 @@
-# DesempenoProfesional
+# Desempeño Profesional
+
+![img1](img/img1.jpg)
 
   1.   [Introducción](introduccion.md)
   2.   [Desempeño profesional y personal](desempeno.md)
